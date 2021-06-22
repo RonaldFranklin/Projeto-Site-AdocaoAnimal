@@ -15,7 +15,7 @@ https://animalesperanca.github.io/index.html
 
 ## Integrantes
 - Israel Alexsander Vilela de Andrade
-- Lucas Fernando Coelho `Usuario:`Lucas-Coelh `Link:`https://github.com/Lucas-Coelh
+- Lucas Fernando Coelho  `Usuario:`Lucas-Coelh   `Link:`https://github.com/Lucas-Coelh
 - Ronald Franklin Rodrigues Romão
 - Rubens da Silva
 - Weuler Daniel Amaral Dutra Soares
