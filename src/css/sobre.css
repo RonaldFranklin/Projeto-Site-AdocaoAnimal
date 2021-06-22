@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.how-section1 h4{
+    
+    color: #174580;
+    font-weight: bold;
+    font-size: 30px;
+}
+.how-section1 .subheading{
+    font-size: 20px;
+}
+
+.how-img{
+    margin: top 5%;
+    text-align: center;
+}
+
+.how-img img{
+    width: 85%;
+}
+
+.quemSomos{
+    background-color: #F4F4F4;
+    padding: 20px;
+    margin: 0px;
+}
+
+.objetivo{
+    background-color: #8B7355!important;
+    padding: 20px;
+    margin: 0px;
+}
+
+.motivo{
+    background-color: #F4F4F4;
+    padding: 20px;
+    margin: 0px;
+}

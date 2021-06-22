@@ -1,0 +1,256 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+#title{
+    display: flex;
+    justify-content: center;
+    
+    margin-bottom: 30px;
+}
+
+
+/* button */
+    .button {
+        background-color: rgb(162, 163, 163);
+        border-color: #323233;
+        border-radius: 5px;
+        font-size: 15px;
+        margin-top: 10px;
+        
+        
+    }
+
+    .div-button{
+        float: right;
+        margin-right: 20px;
+        margin-top: 10px;
+    }
+
+    .button-adocao{
+        display: flex;
+        text-align: end;
+        width: 200px;
+    }
+
+    .buttonadocao{
+        background-color: rgb(162, 163, 163);
+        border-color: #323233;
+        border-radius: 5px;
+        font-size: 15px;
+        margin-top: 10px;
+        margin-right: 28px;
+        width: 140px;
+    }
+
+
+
+/*=============== Header =================*/
+    #section-header{
+        background-color: #8B7355!important;
+    }
+
+    .logo-img{
+        height: 45px;
+        width: 45px;
+        
+    }
+
+    #section-header a {
+        color: #E8E8E8;
+    }
+
+    .navbar-brand{
+        font-size: 27px;
+    }
+
+
+/*=============== Adoção =================*/
+    #section-adocao{
+        padding: 15px;
+        width: 100%;
+        background-color: #F4F4F4;
+        height: 1050px;
+        
+    }
+
+    .div-conteudo{
+        display: flex;
+        justify-content: center;
+    }
+
+    .our-team-main{
+        width:100%;
+        height:auto;
+        border-bottom:5px #323233 solid;
+        background:#fff;
+        text-align:center;
+        border-radius:10px;
+        overflow:hidden;
+        position:relative;
+        transition:0.5s;
+        margin-bottom:50px;
+    }
+
+
+    .our-team-main img {/*tamanho imagem*/
+        border-radius:100%;
+        margin-bottom:20px;
+        width: 300px;
+        height: 250px;
+    }
+
+    .our-team-main h3{
+        font-size:20px;
+        font-weight:700;
+    }
+
+    .our-team-main p{
+        margin-bottom:0;
+    }
+
+    .team-back{
+        width:100%;
+        height:auto;
+        position:absolute;
+        top:0;
+        left:0;
+        padding:5px 15px 0 15px;
+        text-align:left;
+        background:#fff;
+    }
+
+    .team-front{
+        width:100%;
+        height:auto;
+        position:relative;
+        z-index:10;
+        background:#fff;
+        padding:15px;
+        bottom:0px;
+        transition: all 0.5s ease;
+    }
+
+    .our-team-main:hover .team-front{
+        bottom:-200px;
+        transition: all 0.5s ease;
+    }
+
+    .our-team-main:hover{
+        border-color:#777;
+        transition:0.5s;
+    }
+
+
+    .row{
+        margin: 0px;
+    }
+
+    
+
+
+
+
+/*=============== Doação =================*/
+    #section-doacao{
+        background-color: #CDBA96;
+        height: 520px;
+        padding: 15px;
+    }
+
+    .img-doacao{
+        height: 350px;
+        width: 100%;
+    }
+    
+    .conteudo-doacao{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+
+
+/*=============== Voluntario =================*/
+    #section-voluntario{
+        background-color: #F4F4F4;
+        
+        padding: 15px;
+    }
+
+    .img-voluntario{
+        height: 350px;
+        width: 100%;
+    }
+    
+    .conteudo-voluntario{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+
+
+
+/*=============== Parceiros / Sobre / Contato =================*/
+    #sectioninformacoes{
+        padding: 15px;
+        background-color: #CDBA96;
+    }
+
+    .conteudo-informacoes{
+        display: flex;
+        align-items: center;
+        width: 100%;
+    }
+
+
+    .parceiros{
+        display: flex;
+        align-items: center;
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .logocontato{
+        height: 30px!important;
+        width: 30px!important;
+        margin-left: 10px;
+        
+    }
+
+    .logoGmail{
+        width: 30px!important;
+        margin-left: 10px;
+        
+    }
+
+    .contato{
+        text-align: center;
+    }
+
+
+
+/*=============== Footer (RODAPE) =================*/
+#section-footer{
+    background-color: #8B7355;
+}
+
+a:hover{
+    text-decoration:none;
+  }
+  .section-padding {
+  padding: 20px 0;
+  }
+  .bottom {
+    background-color:#e5e5e5
+  }
+  .bottom .copyright {
+    color: #e5e5e5;
+    font-weight: 600;
+  }
+  .bottom .copyright p, .bottom .copyright a:hover{
+    color: #E8E8E8;
+  }
