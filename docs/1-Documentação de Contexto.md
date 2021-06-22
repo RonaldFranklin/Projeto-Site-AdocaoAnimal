@@ -1,5 +1,5 @@
 # Introdução
-O portal do projeto funciona como uma plataforma on-line voltada para a atividade de resgate, adoção e aproximar os amantes de animais atreves do nosso software,
+O portal do projeto funciona como uma plataforma on-line voltada para adoção e aproximar os amantes de animais atreves do nosso software,
 afim de gerenciar doações, voluntários, adoções e parcerias para ONG's, numa criação pratica e tecnológica com abordagens filantrópicas, e totalmente interativa e intuitiva, de forma que qualquer pessoa sem muito conhecimento digital, possa interagir e alcançar o objetivo em relação a busca e intervenção no que se refere a abordagem do projeto!.
 
 ## Problema
