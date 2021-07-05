@@ -1,0 +1,22 @@
+#section-adocaopg{
+    
+    width: 100%;
+    background-color: #F4F4F4;
+}
+
+@media screen and (max-width: 830px) {
+    #sectioninformacoes{
+        display: none;
+    }
+    #informacoesMobile{
+        display: flex;
+    }
+}
+
+#tipo{
+    background-color: rgb(162, 163, 163);
+        border-color: #323233;
+        border-radius: 5px;
+        font-size: 15px;
+        margin-top: 10px;
+}
