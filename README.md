@@ -6,6 +6,8 @@
 
 `SEMESTRE`1º Semestre
 
+`Data de Finalização:`06/07/2021
+
 Desenvolver um software com objetivo de auxiliar na adoção de animais para aliviar a super lotação, além de sanar com a falta de voluntários para os trabalhos dentro das ONG's, doação de alimentos e utensílios para o cuidado dos animais.
 
 Temos o objetivo de sanar as dificuldades de diversas instituições de resgate de animais, ajudando com doações e voluntários, além do mais importante que é encontrar uma nova casa para os animais presentes nesses abrigos. Assim, aliviando super lotações além ao arruma uma nova casa para os animais que precisão de ajuda.
